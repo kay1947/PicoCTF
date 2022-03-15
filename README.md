@@ -1,4 +1,5 @@
-# PicoCTF
-PicoCTF writeups
+Write up:
+For this challenge all you needed to do was to use cat to look at the file contents:
 
-Please go through all the CTF writeups, will definately find the one your are looking for. If you need any missing writeup feel free to drop a message or comment.
+cat flag                
+picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}

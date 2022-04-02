@@ -1,0 +1,4 @@
+Write up: For this challenge all you needed to do was to use cat to look at the file contents:
+
+cat flag
+picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
